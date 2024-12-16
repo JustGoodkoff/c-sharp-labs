@@ -74,8 +74,8 @@ public class WishlistTests
             new Employee(1, "John Doe"),
             new Employee(2, "Jane Black"),
             new Employee(3, "Bob Richman"),
-            new Employee(4, "Aboba Abobovich")
-            // new Employee(5, "Chuck Norris")
+            new Employee(4, "Aboba Abobovich"),
+            new Employee(5, "Chuck Norris")
         };
         var juniors = new List<Employee>
         {
